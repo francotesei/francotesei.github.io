@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/docker.77eebff0.png"
   },
   {
-    "revision": "1f3b4b780b7adbf68fc9",
-    "url": "/static/css/main.d4c090d9.chunk.css"
+    "revision": "08d3ce488645c27b0368",
+    "url": "/static/css/main.0654a743.chunk.css"
   },
   {
     "revision": "55f9fb07af280cee84fb",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/springboot.71025548.png"
   },
   {
-    "revision": "1f3b4b780b7adbf68fc9",
-    "url": "/static/js/main.1f3b4b78.chunk.js"
+    "revision": "08d3ce488645c27b0368",
+    "url": "/static/js/main.08d3ce48.chunk.js"
   },
   {
     "revision": "dbf2390d8416171973b2abff6a64a9bf",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/static/media/gmail.d3bc903c.svg"
   },
   {
-    "revision": "be5405ef318a0decc912373b24515a89",
+    "revision": "39d3356121855da7606e21c5e1653c6e",
     "url": "/index.html"
   }
 ];
